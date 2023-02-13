@@ -17,3 +17,15 @@
 
 #5. Zphisher
 ![Zphisher](https://user-images.githubusercontent.com/113322528/218006819-d0b2bd17-59f1-4dc1-9ccc-a38d2ed135f5.jpg)
+
+
+
+#EXAM
+#1.Port Scan
+![Screenshot (11)](https://user-images.githubusercontent.com/113322528/218415200-c1e72128-72b3-4f7c-ad54-03bdc05cd9d4.png)
+#2.Vulnerability scan
+![Screenshot (12)](https://user-images.githubusercontent.com/113322528/218415342-fd08458c-d9fb-437b-bd62-d8ca0b87d8ff.png)
+#3.Wire shark
+![Screenshot (9)](https://user-images.githubusercontent.com/113322528/218415424-60fc4574-51c1-4ac8-9323-6bf11cd18902.png)
+#4.Kali linux commands
+![Screenshot (10)](https://user-images.githubusercontent.com/113322528/218415629-29287c92-294f-47c5-a1d2-56a5c3f7f2cb.png)
